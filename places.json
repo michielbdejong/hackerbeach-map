@@ -238,5 +238,17 @@
       "type": "Point",
       "coordinates": [104.03578519821167, 10.055804169626038]
     }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "Tung Linh",
+      "description": "A sign saying 'Free wifi' on the north sidewalk of Ba Mươi Thầng Tử street leads to a courtyard with a very friendly cafe",
+      "icon": "coffee"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [103.96353721618652, 10.214003702457653]
+    }
   }
 ]
